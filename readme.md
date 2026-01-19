@@ -30,11 +30,11 @@ With this custom breadboard, the microcontroller sits in the middle, leaving **f
 
 This repository contains:
 
-/ESP32dev/          – Source CAD file, STL model, 3MF file for ESP32 development board
-/RaspberryPiPico/   – Source CAD file, STL model, 3MF file for Raspberry Pi Pico
-/photos/            – Build & assembly photos (for documentation)
-readme.md           - this file
-license.txt         - license
+- /ESP32dev/          – Source CAD file, STL model, 3MF file for ESP32 development board
+- /RaspberryPiPico/   – Source CAD file, STL model, 3MF file for Raspberry Pi Pico
+- /photos/            – Build & assembly photos (for documentation)
+- readme.md           - this file
+- license.txt         - license
 
 ## 🖨 Printing Notes
 
