@@ -1,5 +1,7 @@
 # Fixing Breadboards for Wide Microcontrollers – Pico & ESP32 Edition
 
+##Update 22.01.2026: more variants included (photos to come), nozzle size included in readme.md
+
 This project provides a custom 3D-printed breadboard body designed to accommodate modern, wide microcontroller development boards such as the **Raspberry Pi Pico** and **ESP32 Dev Board**. The metal spring contacts from a standard commercial breadboard are removed and reused inside the new housing, giving you a full-size 63×5 contact area and two power rails — just like the real thing.
 
 ![IMG_8491](photos/IMG_8491.jpg)
@@ -20,9 +22,12 @@ With this custom breadboard, the microcontroller sits in the middle, leaving **f
 - Full 63×5 breadboard layout
 - Two vertical power rails (left & right)
 - Contact springs **recycled** from an existing breadboard
-- Two variants:
-  - **Pico version:** 7×2.54 mm pin spacing (17.78 mm)
-  - **ESP32 version:** 10×2.54 mm pin spacing (25.40 mm)
+- Five variants:
+  - **Pico version 1:** 7×2.54 mm pin spacing (17.78 mm)
+  - **Pico version 2:** pin spacing split: 24 rows with 17.78 mm spacing (corresponds to RP pico), 39 rows with 7.62 mm spacing (correponds to DIL ICs)
+  - **ESP32 version 1:** 10×2.54 mm pin spacing (25.40 mm)
+  - **ESP32 version 2:** pin spacing split: 2 columns with 25.40 mm spacing, 3 columns with 7.62 mm spacing
+  - **ESP32 version 3:** pin spacing split: 2 columns with 25.40 mm spacing, 2 columns with 7.62 mm spacing
 - Optional screw-mounted bottom plate
 - Fully 3D-printable design (Fusion 360 source included)
 
@@ -40,6 +45,7 @@ This repository contains:
 
 - Material: **PLA** works well (ABS/ASA for heat resistance)
 - Layer height: 0.2 mm recommended
+- **nozzle diameter: 0.4 mm recommended**
 - Infill: 50%
 - Supports: Not required for main board
 - Optional: Pause print to insert M2 nuts for screw mounting
