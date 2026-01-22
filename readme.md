@@ -1,6 +1,6 @@
 # Fixing Breadboards for Wide Microcontrollers – Pico & ESP32 Edition
 
-##Update 22.01.2026: more variants included (photos to come), nozzle size included in readme.md
+## Update 22.01.2026: more variants included (photos to come), nozzle size included in readme.md
 
 
 This project provides a custom 3D-printed breadboard body designed to accommodate modern, wide microcontroller development boards such as the **Raspberry Pi Pico** and **ESP32 Dev Board**. The metal spring contacts from a standard commercial breadboard are removed and reused inside the new housing, giving you a full-size 63×5 contact area and two power rails — just like the real thing.
