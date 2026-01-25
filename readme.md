@@ -1,5 +1,8 @@
 # Fixing Breadboards for Wide Microcontrollers – Pico & ESP32 Edition
 
+## Update 25.01.2026: test_print.stl added. This is a quick print of the breadboard's main feature. If your printer can handle this, it can also print the full breadboard.
+
+
 ## Update 22.01.2026: more variants included (photos to come), nozzle size included in readme.md
 
 
