@@ -1,5 +1,7 @@
 # Fixing Breadboards for Wide Microcontrollers – Pico & ESP32 Edition
 
+### Update 30.01.2026: added 3mf files for Arduino nano. There is a version with colored red and black lines next to the power rails (Arduino nano board only).
+
 ### Update 27.01.2026: breadboard for Arduino nano added. 
 
 ### Update 27.01.2026: breadboard for 900 mil ESP32 added. Renamed the STL files in order to avoid confusion, added .jpg files which correspond to the .stl files. Added model guide, which presents all available versions.
